@@ -1,1 +1,1 @@
-My personal experiments with creating docker images.
+My personal experiments with playing with docker.
